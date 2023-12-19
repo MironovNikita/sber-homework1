@@ -37,9 +37,7 @@ _Статические_ запускаются при первом обраще
 
 _Нестатические_ - при создании экземпляра класса.
 
-<div style="text-align: center;">
 ![result](https://github.com/MironovNikita/sber-homework1/blob/main/res/result.png)
-</div>  
 
 ### Описание результата
 
